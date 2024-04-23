@@ -1,5 +1,5 @@
 ### すごい! ✨✨✨
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Blender+Noob+%E5%BF%83%E3%83%95%E3%82%A7%E3%83%81%E3%81%A7%E3%81%99%EF%BC%81)](https://git.io/typing-svg)
+<div class="tenor-gif-embed" data-postid="22827002" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/rat-spinning-3d-model-gif-22827002">Rat Spinning Sticker</a>from <a href="https://tenor.com/search/rat-stickers">Rat Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 ### Currently Learning :
 - ⏳ Unreal Engine 
